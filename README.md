@@ -54,14 +54,15 @@
 
 ---
 
-### 🔍 Fun Fact
+### 🧠 Fun Fact
 
-> “I don't just write code. I tell computers what to do — politely.”
+> 🧩 “I don’t just debug code—I debug logic. I don’t just build apps—I build solutions.”  
+> 🎯 Let’s connect if you love innovation and inclusive tech.
 
 ---
 
-### ⭐ Support
+### ✨ Support
 
-If you find my work interesting, please consider giving ⭐ to my repositories and connecting!
+If you like my work, consider giving a ⭐ to my repositories and following me for more updates!
 
 ---
