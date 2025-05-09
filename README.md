@@ -1,4 +1,4 @@
-<!-- GitHub Profile README.md -->
+
 
 <h1 align="center">Hi 👋, I'm SWAGATO BHATTACHARYA</h1>
 <h3 align="center">💻 Full Stack Developer | 📍 Kolkata, India</h3>
