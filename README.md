@@ -1,43 +1,38 @@
+<!-- GitHub Profile README.md -->
 
-
-<h1 align="center">Hi 👋, I'm SWAGATO BHATTACHARYA</h1>
-<h3 align="center">💻 Full Stack Developer | 📍 Kolkata, India</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#f76300;">Swagato Bhattacharya</span></h1>
+<h3 align="center">💻 Full Stack Developer | 🧠 AI/ML Enthusiast | 🌍 Based in Kolkata, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76300&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+and+ML+Enthusiast;Tech+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F76300&center=true&vCenter=true&multiline=true&width=700&lines=🚀+Engineer+by+Profession+%7C+Creator+by+Passion;💡+Building+AI-powered+Apps+%7C+Bias-Free+Tools;📊+Data+Cruncher+%7C+NLP+Nerd+%7C+Tech+Evangelist;🌱+Always+Learning+Something+New!" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🌱 Currently learning **LangChain, LLaMA, Streamlit, Advanced NLP**
-- 🔭 Working on **AI-based Resume Analyzer & Bias Detection**
-- 💬 Ask me about **Python, JavaScript, React, MongoDB, C, Java**
-- 📧 Email: **swagatobhattacharya576@gmail.com**
-- 📞 Phone: **+91 7044275077**
-- 📍 Location: **Kolkata, India**
+### 🧠 About Me
+
+- 🔭 I’m currently working on **AI-powered Resume Analyzer with Bias Detection**
+- 🌱 Learning more about **LangChain, LLaMA, Streamlit, and NLP**
+- 💬 Ask me about **Python, React, MongoDB, Node.js, Java, C**
+- 🛠️ Love building tools that make hiring smarter & fairer
+- ✍️ Sometimes I write or speak about tech when inspiration strikes
 
 ---
 
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,java,c,git,html,css,bootstrap,streamlit,vscode&theme=dark" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swag12345-ml&show_icons=true&theme=radical" alt="Swagato's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swag12345-ml&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swag12345-ml&show_icons=true&theme=radical&count_private=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=swag12345-ml&theme=radical" width="49%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=swag12345-ml&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -46,13 +41,30 @@
 
 <p align="center">
   <a href="mailto:swagatobhattacharya576@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://swag12345-ml.github.io/porting/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/My Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://github.com/swag12345-ml" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
+---
+
+### 🧠 Fun Fact
+
+> 🧩 “I don’t just debug code—I debug logic. I don’t just build apps—I build solutions.”  
+> 🎯 Let’s connect if you love innovation and inclusive tech.
+
+---
+
+### ✨ Support
+
+If you like my work, consider giving a ⭐ to my repositories and following me for more updates!
+
+---
