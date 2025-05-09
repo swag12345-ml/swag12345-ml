@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hey there 👋, I'm <span style="color:#f76300;">Swagato Bhattacharya</span></h1>
 <h3 align="center">💻 Full Stack Developer | 🧠 AI/ML Enthusiast | 🌍 Kolkata, India</h3>
 
