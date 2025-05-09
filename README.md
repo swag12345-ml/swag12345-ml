@@ -11,7 +11,7 @@
 
 - 🌱 Currently learning **LangChain, LLaMA, Streamlit, Advanced NLP**
 - 🔭 Working on **AI-based Resume Analyzer & Bias Detection**
-- 💬 Ask me about **Python, JavaScript, React, Node.js, MongoDB**
+- 💬 Ask me about **Python, JavaScript, React, MongoDB, C, Java**
 - 📧 Email: **swagatobhattacharya576@gmail.com**
 - 📞 Phone: **+91 7044275077**
 - 📍 Location: **Kolkata, India**
@@ -24,10 +24,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
 </p>
 
 ---
@@ -51,15 +51,8 @@
   <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://swag12345-ml.github.io/porting/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
----
-
-<p align="center">
-  🐍 Watch my contributions come alive!
-  <br /><br />
-  <img src="https://raw.githubusercontent.com/swag12345-ml/swag12345-ml/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
