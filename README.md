@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer | 🧠 AI/ML Enthusiast | 🌍 Kolkata, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76300&center=true&vCenter=true&width=700&lines=🚀+Engineer+%7C+Creator;💡+AI-powered+Tools+Builder;🌱+Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76300&center=true&vCenter=true&width=700&lines=🚀+Engineer+%7C+Creator;💡+AI-powered+Tools+Builder;🌱+Always+Learning!" alt="Typing SVG" />
 </p>
 
 ---
