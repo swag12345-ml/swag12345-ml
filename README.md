@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer | 🧠 AI/ML Enthusiast | 🌍 Kolkata, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76300&center=true&vCenter=true&width=700&lines=🚀+Engineer+%7C+Creator;💡+AI-powered+Tools+Builder;🌱+Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76300&center=true&vCenter=true&width=700&lines=🚀+Engineer+%7C+Creator;💡+AI-powered+Tools+Builder;🌱+Always+Learning!" alt="Typing SVG" />
 </p>
 
 ---
@@ -40,10 +40,16 @@
 ### 📊 GitHub Stats & Graphs
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=swag12345-ml&theme=radical" width="47%" />
-  <img src="https://streak-stats.demolab.com/?user=swag12345-ml&theme=radical" width="47%" />
-  <br /><br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swag12345-ml&theme=radical&area=true" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swag12345-ml&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swag12345-ml&theme=radical" width="47%" />
+</p>
+
+---
+
+### 🗓️ Recent GitHub Activity (Working Graph)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swag12345-ml&theme=radical" width="95%" />
 </p>
 
 ---
