@@ -43,13 +43,17 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=swag12345-ml&show_icons=true&theme=radical" width="45%" />  
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=swag12345-ml&theme=radical" width="45%" />
+
+  <br><br>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=swag12345-ml&theme=radical&area=true" width="95%" />
 
 </div>
 
 ---
-### 🗓️ Recent GitHub Activity (Working Graph)
+
+### 🗓️ Recent GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swag12345-ml&theme=radical" width="95%" />
@@ -71,7 +75,7 @@
   <a href="mailto:swagatobhattacharya576@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://linkedin.com/in/swagato-bhattacharya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://swag12345-ml.github.io/porting/" target="_blank">
@@ -91,6 +95,6 @@
 ### 🚀 Support
 
 If you enjoy my work, please ⭐ my repos and follow me for more!  
-Let's build something amazing together!
+Let’s build something amazing together!
 
 ---
