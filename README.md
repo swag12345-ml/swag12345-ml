@@ -37,22 +37,22 @@
 
 ---
 
-
 ### 📊 GitHub Stats & Graphs
 
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=swag12345-ml&show_icons=true&theme=radical" width="45%" />  
-  <img src="https://streak-stats.demolab.com?user=swag12345-ml&theme=radical" width="45%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=swag12345-ml&theme=radical" width="45%" />
+  <!-- Alternative if herokuapp is down -->
+  <img src="https://streak-stats.demolab.com?user=swag12345-ml&theme=radical&hide_border=true" width="45%" /> -->
 
-
-  <br><br>
+  <br /><br />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=swag12345-ml&theme=radical&area=true" width="95%" />
 
 </div>
-
----
+----
 
 ### 🗓️ Recent GitHub Activity
 
