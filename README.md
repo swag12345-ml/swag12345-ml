@@ -41,8 +41,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=swag12345-ml&theme=radical" width="47%" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swag12345-ml&theme=radical" width="47%" />
+  <img src="https://streak-stats.demolab.com/?user=swag12345-ml&theme=radical" width="47%" />
   <br /><br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=swag12345-ml&theme=radical&area=true" width="95%" />
 </p>
