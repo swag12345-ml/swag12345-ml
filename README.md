@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#f76300;">Swagato Bhattacharya</span></h1>
-<h3 align="center">💻 Full Stack Developer | 🧠 AI/ML Enthusiast | 🌍 Kolkata, India</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#f76300;">Shankhadip</span></h1>
+<h3 align="center">💻 Full Stack Developer | 🧠 AI/ML Enthusiast | 🌍 India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76300&center=true&vCenter=true&width=700&lines=🚀+Engineer+%7C+Creator;💡+AI-powered+Tools+Builder;🌱+Always+Learning!" alt="Typing SVG" />
@@ -12,8 +12,8 @@
 - 🔭 Working on **Bias-Free Resume Analyzer using LLaMA**
 - 🌱 Exploring **LangChain, NLP, Streamlit**
 - 💬 Ask me about **Python, React, MongoDB, Java**
-- 📫 Reach me at **swagatobhattacharya576@gmail.com**
-- 📍 Kolkata, India
+- 📫 Reach me at **shankhadip4@gmail.com**
+- 📍 India
 
 ---
 
@@ -41,12 +41,11 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=swag12345-ml&show_icons=true&theme=radical" width="45%" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=ShankhadipppCS&show_icons=true&theme=radical" width="45%" />  
   
- 
   <br /><br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swag12345-ml&theme=radical&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShankhadipppCS&theme=radical&area=true" width="95%" />
 
 </div>
 
@@ -54,7 +53,7 @@
 ### 🗓️ Recent GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swag12345-ml&theme=radical" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShankhadipppCS&theme=radical" width="95%" />
 </p>
 
 ---
@@ -62,7 +61,7 @@
 ### 📈 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swag12345-ml&style=for-the-badge&color=orange" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ShankhadipppCS&style=for-the-badge&color=orange" alt="Profile Views" />
 </p>
 
 ---
@@ -70,13 +69,13 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:swagatobhattacharya576@gmail.com">
+  <a href="mailto:shankhadip4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/swagato-bhattacharya" target="_blank">
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://swag12345-ml.github.io/porting/" target="_blank">
+  <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
