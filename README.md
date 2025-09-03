@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Working on *Bias-Free Resume Analyzer using LLaMA*
+- 🔭 Developed a *Bias-Free Resume Analyzer,Resume builder with career recommendations and suggestions using LLaMA, LLangchain, Groq and Streamlit*
 - 🌱 Exploring *LangChain, NLP, Streamlit*
 - 💬 Ask me about *Python, React, MongoDB, Java*
 - 📫 Reach me at *swagatobhattacharya576@gmail.com*
